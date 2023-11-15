@@ -11,7 +11,7 @@ void main() {
       home: Scaffold(
           appBar: AppBar(
             title: Text(
-              "Fizy Chat",
+              "Frenzy Chat",
               textDirection: TextDirection.ltr,
             ),
             leading: Icon(Icons.chat),
